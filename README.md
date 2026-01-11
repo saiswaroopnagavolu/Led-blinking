@@ -1,9 +1,9 @@
-Arduino LED Blinking Project (Arduino Uno R3)
+**Arduino LED Blinking Project (Arduino Uno R3)**
 📌 Overview
 
 This project demonstrates a basic LED blinking circuit using an Arduino Uno R3 and a breadboard. It is designed for beginners to understand digital output control, basic wiring, and Arduino programming. The circuit and simulation are created using Tinkercad.
 
-🛠 Components Used
+**🛠 Components Used**
 
 Arduino Uno R3
 
@@ -17,7 +17,7 @@ Jumper wires
 
 USB cable (for power and programming)
 
-🔌 Circuit Description
+**🔌 Circuit Description**
 
 Each LED is connected to a digital pin of the Arduino through a current-limiting resistor.
 
@@ -37,7 +37,7 @@ The circuit diagram was designed and simulated using Tinkercad.
 
 ![Circuit Diagram](Brilliant Habbi-Bigery.png)
 
-💻 Arduino Code
+**💻 Arduino Code**
 
 The Arduino sketch controls the LEDs by toggling the digital pins HIGH and LOW with delays in between.
 
@@ -64,8 +64,8 @@ void loop() {
   digitalWrite(10, LOW);
 }
 
-🚀 How to Run the Project
-
+**🚀 How to Run the Project
+**
 Open Tinkercad or Arduino IDE
 
 Create the circuit as shown in the diagram
@@ -74,7 +74,7 @@ Upload the code to the Arduino Uno
 
 Observe the LEDs blinking in sequence
 
-🎯 Learning Outcomes
+**🎯 Learning Outcomes**
 
 Understanding Arduino digital I/O pins
 
@@ -86,7 +86,7 @@ Writing basic Arduino programs
 
 Simulating circuits using Tinkercad
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 
 Add push buttons to control blinking
 
@@ -94,6 +94,6 @@ Use PWM for brightness control
 
 Implement patterns or traffic-light logic
 
-📄 License
+**📄 License**
 
 This project is open-source and free to use for educational purposes.
