@@ -1,4 +1,7 @@
 **Arduino LED Blinking Project (Arduino Uno R3)**
+
+
+
 📌 Overview
 
 This project demonstrates a basic LED blinking circuit using an Arduino Uno R3 and a breadboard. It is designed for beginners to understand digital output control, basic wiring, and Arduino programming. The circuit and simulation are created using Tinkercad.
